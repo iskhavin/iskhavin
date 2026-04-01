@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @iskhavin
-- 👀 I’m interested in ... DevOps
 - 🌱 I’m currently learning ... on Coursera
 - 💞️ I’m looking to collaborate on ... newbie-friendly projects
 - 📫 How to reach me ... iskhavin@gmail.com
